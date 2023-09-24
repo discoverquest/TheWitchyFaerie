@@ -1,0 +1,2 @@
+# TheWitchyFaerie
+Static HTML site
